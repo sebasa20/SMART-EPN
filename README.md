@@ -2,7 +2,8 @@
 SmartEPN es un programa desarrollado en Python que simula un sistema de registro de estudiantes y compra de productos con aplicación de cupones de descuento.
 El sistema permite registrar estudiantes, generar cupones, enviar notificaciones vía WhatsApp y emitir facturas con o sin descuento.
 
-Para descargar hacer clic en el siguiente enlace:https://github.com/sebasa20/SMART-EPN/blob/main/SMART-EPN.exe \n
+Para descargar hacer clic en el siguiente enlace:https://github.com/sebasa20/SMART-EPN/blob/main/SMART-EPN.exe 
+
 
 
 FUNCIONALIDADES
